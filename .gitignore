@@ -15,3 +15,5 @@
 *.o
 *.a
 mkmf.log
+# Added to not force others to use these files:
+.overcommit.yml
